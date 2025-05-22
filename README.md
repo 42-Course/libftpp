@@ -2,7 +2,7 @@
 
 `libftpp` is a custom C++ library with extensive automated documentation generation. This project is set up with a `Makefile` that compiles the library, manages object and binary cleanup, and automates documentation generation using Doxygen and Sphinx, with Read the Docs support.
 
-#### View the documentation here: [https://github.com/42-Course/libftpp](https://github.com/42-Course/libftpp)
+#### View the documentation here: [42-course.github.io/libftpp-docs/](42-course.github.io/libftpp-docs/)
 
 ***
 
